@@ -1,0 +1,34 @@
+[     
+    {
+        "name":"Sourav sharma",
+        "age":"19",
+        "profession":"Btech(ME)",
+        "gender":"Male",
+        "hair_color":"Black"
+    },
+    
+    {
+        "name":"Sunil Kumar",
+        "age":"19",
+        "profession":"Btech(CSE)",
+        "gender":"Male",
+        "hair_color":"Black"
+    },
+
+    {
+        "name":"Rajat",
+        "age":"16",
+        "profession":"Btech(CSE)",
+        "gender":"Male",
+        "hair_color":"BRown"
+    },
+
+    {
+        "name":"Neha Sharma",
+        "age":"18",
+        "profession":"Btech(CSE)",
+        "gender":"Female",
+        "hair_color":"Brown"
+    }
+
+]
